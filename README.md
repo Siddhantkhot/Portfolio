@@ -1,5 +1,5 @@
 # 🚀 Siddhant Khot — Developer Portfolio
-live site:[LIVE]("https://portfolio-iota-six-dvg6ld72p2.vercel.app/")
+-live site:[LIVE](https://portfolio-iota-six-dvg6ld72p2.vercel.app/)
 A modern, futuristic personal portfolio built with **React + Vite + Tailwind CSS**.
 
 ## ✨ Features
